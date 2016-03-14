@@ -11,7 +11,9 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-
+   getting_started
+   api_guide
+   api_ref
 
 Indices and tables
 ==================
